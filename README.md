@@ -13,4 +13,4 @@ Hover coordinates are the postion of the eye after it's been thrown
 
 Hover coordinates are easiest to obtain by sprinting to the location of the hover and staring straight up at the eye
 
-#**Before submitting any of the second set of coordinates(after the first standing and hover measurement) move about 200 meters roughly perpendicular to the last throw!**#
+***Before submitting any of the second set of coordinates(after the first standing and hover measurement) move about 200 meters roughly perpendicular to the last throw!***
