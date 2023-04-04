@@ -55,7 +55,7 @@ namespace StrongholdApproximator
 
             Console.WriteLine(intersect);
             Console.WriteLine();
-            Console.WriteLine("Press any key to close...");
+            Console.Write("Press any key to close...");
             Console.ReadKey();
         }
         private static void Logo()
