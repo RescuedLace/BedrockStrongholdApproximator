@@ -1,4 +1,4 @@
-# A general idea of the location
+# A general area tool
 
 I'm working on figuring out how to make it more precise (or occasionally any at all)
 It might save a few eyes now though
